@@ -1,9 +1,9 @@
 import java.util.Scanner;
     public class Main {
         public static void main(String[] args) {
-            System.out.println("Hello world! This is my first O/P");
+            System.out.println("Hello world! This is my first O/P with IDE changes");
             Scanner scanner = new Scanner(System.in);
-            String B = scanner.next();
-            System.out.println("My input :" + B);
+            String K = scanner.next();
+            System.out.println("My input :" + K);
         }
 }
